@@ -1,2 +1,3 @@
 # naive-bayes-spam
-A simple spam messages classifier to detect spam message.
+A simple spam message classifier to detect spam messages.
+Built using Python and its libraries 
